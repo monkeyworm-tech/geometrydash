@@ -1,0 +1,23 @@
+{
+  "short_name": "Geometry Dash",
+  "name": "Geometry Dash",
+  "icons": [
+    {
+      "src": "https://www.nocookie.net/b213ondiscord/images/a/a6/Geometrydash.png/revision/latest/thumbnail/width/360/height/450?cb=20200721125515",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.nocookie.net/b213ondiscord/images/a/a6/Geometrydash.png/revision/latest/thumbnail/width/360/height/450?cb=20200721125515",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#16181e",
+  "theme_color": "#16181e",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
